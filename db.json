@@ -1,0 +1,10 @@
+{
+  "departments": [
+    {
+      "name": "Marketing",
+      "description": "Marketing team",
+      "id": 2
+    }
+  ],
+  "employees": []
+}
